@@ -2,6 +2,7 @@ import java.util.Scanner;
 
 public class DivisionException {
     public static void main(String[] args) throws Exception {
+        //Objetivo: Manejar excepciones relacionadas con la división por cero y la entrada no válida.
         Scanner sc = new Scanner(System.in);
         
         try {
